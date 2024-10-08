@@ -1,36 +1,11 @@
-# Projeto Integrador "Mediotec Senac"
+# Repositório de Atividades da Faculdade
 
-Repositório destinado para o Projeto Integrador do terceiro período da turma ADS032 da faculdade Senac.
+Este repositório é dedicado ao registro e organização das atividades realizadas durante o curso na faculdade. Aqui, você encontrará exercícios, projetos e trabalhos desenvolvidos ao longo do período letivo.
 
-## Tabela de Conteúdos
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
-## Descrição do Projeto
+## Descrição do Repositório
 
-O **Mediotec Senac** é um sistema acadêmico desenvolvido para facilitar a gestão acadêmica de alunos e responsáveis. Nosso projeto visa a melhoria e a implementação de novas funcionalidades, permitindo que os alunos possam:
+O objetivo deste repositório é centralizar as atividades acadêmicas, facilitando o acesso e a consulta. As atividades são organizadas por semestre e matéria, permitindo uma melhor visualização do progresso ao longo do curso.
 
-- Consultar suas turmas.
-- Verificar horários de aulas.
-- Consultar notas.
+## Estrutura do Repositório
 
-Além disso, o sistema permite que os responsáveis acessem boletos para o pagamento de mensalidades, tornando o processo mais prático e eficiente.
-
-## Tecnologias Utilizadas
-
-- **Back-end:** Node.js
-- **Front-end:** HTML, CSS, JavaScript
-- **Banco de Dados:** MongoDB
-
-## Instalação
-
-Para rodar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/mediotec-senac.git
